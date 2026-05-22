@@ -19,7 +19,8 @@ I'm an aspiring iOS developer based in Almaty, Kazakhstan. Currently finishing m
 ### 🚀 What I'm currently working on
 
 * 📱 **Demal app** — Developing an iOS app mockup in Figma and building the application to track air quality in Almaty.
-**CAMPUS** — Directing the technological vision and engineering strategy for an EdTech ecosystem tailored to private schools, overseeing scalable architecture and end-to-end product delivery.
+
+* **CAMPUS** — Directing the technological vision and engineering strategy for an EdTech ecosystem tailored to private schools, overseeing scalable architecture and end-to-end product delivery.
 ---
 
 ### 📫 Let's Connect!
